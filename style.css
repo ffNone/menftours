@@ -1,0 +1,17 @@
+h1 {
+
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    
+}
+form {
+    width: 50%;
+    margin:auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+form input[type="submit"] {
+    position: absolute;
+}
